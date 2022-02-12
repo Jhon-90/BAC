@@ -177,7 +177,7 @@
 				<Title>limite_expansion_y_urbano</Title>
 				<Abstract>GH:limite_expansion_y_urbano ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Jhon-90/BAC/releases/download/Map_Download/limite_expansion_y_urbano.zip˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-73.69027150814426" miny="4.043261960244185" maxx="-73.53141265092924" maxy="4.183375928931354"></LatLonBoundingBox>
@@ -197,7 +197,7 @@
 				<Title>limite_manzanas</Title>
 				<Abstract>GH:limite_manzanas ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Jhon-90/BAC/releases/download/Map_Download/limite_manzanas.zip˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-73.69959310014016" miny="4.0475121337486755" maxx="-73.53810742073021" maxy="4.1678529906221184"></LatLonBoundingBox>
@@ -217,7 +217,7 @@
 				<Title>vias_urbanas</Title>
 				<Abstract>GH:vias_urbanas ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Jhon-90/BAC/releases/download/Map_Download/vias_urbanas.zip˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-73.67503795790377" miny="4.069204455848877" maxx="-73.53711667878278" maxy="4.165417341878114"></LatLonBoundingBox>
